@@ -36,6 +36,6 @@ https://sriharini252004-dev.github.io/Greenden-Tailwind-project/
 
 ## 📂 GitHub Repository
 
-https://github.com/sriharini252004-dev/Greenden-Tailwind
+https://github.com/sriharini252004-dev/Greenden-Tailwind-project.git
 
 ⭐ If you found this project helpful, don't forget to **Star** the repository!
