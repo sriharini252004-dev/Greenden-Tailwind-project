@@ -32,10 +32,10 @@ Greenden is a modern and responsive plant store website built using **HTML5** an
 
 ## 🌐 Live Demo
 
+https://sriharini252004-dev.github.io/Greenden-Tailwind/
 
 ## 📂 GitHub Repository
 
-
-
+https://github.com/sriharini252004-dev/Greenden-Tailwind
 
 ⭐ If you found this project helpful, don't forget to **Star** the repository!
